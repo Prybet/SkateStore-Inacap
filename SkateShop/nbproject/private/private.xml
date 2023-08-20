@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/xampp/htdocs/SkateShop/controller/AdminController.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/models/Status.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/controller/LoginController.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/controller/BuyController.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/models/ProductType.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/views/myhome.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/controller/RestApiItems.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/base/nav.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/models/CartItem.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/models/Product.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/views/home.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/views/shoppingcart.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/models/ShopCart.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/models/SaleDetail.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/views/product.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/base/index.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/views/store.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/controller/RestApi.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/views/aPage.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/models/PayMethod.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/controller/ProductController.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/controller/UserController.php</file>
+            <file>file:/C:/xampp/htdocs/SkateShop/models/User.php</file>
+        </group>
+    </open-files>
+</project-private>
